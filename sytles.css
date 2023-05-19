@@ -1,0 +1,16 @@
+:root {
+    --yellow: #FFB21E;
+    --blue: #1125D6;
+    --green: #00BB8F;
+    --red: #FF5555;
+    --dark-navy: #303B59;
+    --light-blue: #CAC9FF;
+    --very-light-blue: #ECF2FF;
+    --white: #FFFFFF;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
